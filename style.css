@@ -52,7 +52,7 @@ section{
 }
 
 .logo{
-    font-size: 2rem;
+    font-size: 3rem;
     color: var(--text-color);
     font-weight: 800;
     cursor: default;
