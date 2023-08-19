@@ -17,7 +17,7 @@ isMusicPaused = true;
 
 window.addEventListener("load", ()=>{
   loadMusic(musicIndex);
-  playingSong(); 
+  playingSong();
 });
 
 function loadMusic(indexNumb){
