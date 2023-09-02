@@ -17,6 +17,9 @@ let addTask = addBtn.onclick = ()=>{
             top: 0,
             behavior: 'smooth'
         });
+        setTimeout(()=>{
+            err.style.display="none";
+        },2000);
     }else{
 
         err.style.display="none";
